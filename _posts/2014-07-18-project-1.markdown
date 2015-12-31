@@ -7,9 +7,9 @@ date: 2014-07-18
 img: 7260-river-rd.png
 thumbnail: 7260-river-rd.png
 alt: image-alt
-price: $850 per day
+price: $850 per night
 accommodates: Up to 10 people
 type: Countryside
-description: Nestled among the trees in a winter wonderland, this gorgeous lakeside cabin boasts 5 bedrooms with ensuites, a large gourmet kitchen and heated floors throughout the home. Trust us—this property will make you want to stay longer!
+description: Nestled among the trees in a winter wonderland, this gorgeous lakeside cabin boasts 5 bedrooms with ensuite bathrooms, a large gourmet kitchen and heated floors throughout the home. Trust us—this property will make you want to stay longer!
 
 ---

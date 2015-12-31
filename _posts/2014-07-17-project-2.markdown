@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Tribeca
+subtitle: Lower Manhattan, New York
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: tribeca-loft.png
+thumbnail: tribeca-loft.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+price: $550 per night
+accommodates: Up to 2 people
+type: Metropolitan
+description: Exquisite 1200 square foot loft space in the heart of Tribeca, _the_ neighborhood in Manhattan, home to Leonardo DiCaprio, Robert De Niro, Beyoncé and dozens more. This spacious loft is newly renovated and features exposed brick walls, columns, beautiful hardwood floors and carefully selected designer furniture.
 
 ---
