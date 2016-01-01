@@ -669,11 +669,19 @@ aside.clients img {
     margin: 50px auto;
 }
 
+#contact-image {
+  background-color: #222;
+  background-image: url(img/map-image.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-filter: sepia(0.2) blur(2px) opacity(80%);
+     -moz-filter: sepia(0.2) blur(2px) opacity(80%);
+       -o-filter: sepia(0.2) blur(2px) opacity(80%);
+      -ms-filter: sepia(0.2) blur(2px) opacity(80%);
+          filter: sepia(0.2) blur(2px) opacity(80%);
+}
+
 section#contact {
-    background-color: #222;
-    background-image: url(img/map-image.png);
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 section#contact .section-heading {
