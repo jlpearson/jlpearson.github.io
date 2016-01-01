@@ -675,7 +675,7 @@ section#contact {
   background-repeat: no-repeat;
 }
 
-section#contact .contact-image {
+section#contact::before {
   background-color: #222;
   background-image: url(img/map-image.png);
   background-position: center;
