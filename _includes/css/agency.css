@@ -670,9 +670,9 @@ aside.clients img {
 }
 
 section#contact {
-  background-color: #222;
+  /*background-color: #222;
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat;*/
 }
 
 section#contact::before {
@@ -682,9 +682,10 @@ section#contact::before {
   position:absolute;
   z-index:-1;
   background-size:cover;
+  background-attachment: scroll;
   background-color: #222;
   background-image: url(img/map-image.png);
-  background-position: center;
+  background-position: center center;
   background-repeat: no-repeat;
   -webkit-filter: sepia(0.2) blur(2px) opacity(80%);
      -moz-filter: sepia(0.2) blur(2px) opacity(80%);
