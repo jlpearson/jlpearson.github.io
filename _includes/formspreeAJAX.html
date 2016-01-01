@@ -8,7 +8,7 @@
                         <p class="help-block text-danger"></p>
                     </div>
                     <div class="form-group">
-                        <input name="email" type="email" class="form-control" placeholder="Your Email *" required data-validation-required-message="Please enter your email address.">
+                        <input name="_replyto" type="email" class="form-control" placeholder="Your Email *" required data-validation-required-message="Please enter your email address.">
                         <p class="help-block text-danger"></p>
                     </div>
                     </div>
@@ -35,7 +35,7 @@
         <script>
         var contactForm = document.querySelector('form'),
     inputName = contactForm.querySelector('[name="name"]'),
-    inputEmail = contactForm.querySelector('[name="email"]'),
+    input_replyto = contactForm.querySelector('[name="_replyto"]'),
     textAreaMessage = contactForm.querySelector('[name="message"]'),
     sendButton = contactForm.querySelector('button');
 
