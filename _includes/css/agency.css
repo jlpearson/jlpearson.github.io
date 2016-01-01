@@ -669,7 +669,13 @@ aside.clients img {
     margin: 50px auto;
 }
 
-div#contact-image {
+section#contact {
+  background-color: #222;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+section#contact .contact-image {
   background-color: #222;
   background-image: url(img/map-image.png);
   background-position: center;
@@ -679,9 +685,6 @@ div#contact-image {
        -o-filter: sepia(0.2) blur(2px) opacity(80%);
       -ms-filter: sepia(0.2) blur(2px) opacity(80%);
           filter: sepia(0.2) blur(2px) opacity(80%);
-}
-
-section#contact {
 }
 
 section#contact .section-heading {
