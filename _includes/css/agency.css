@@ -681,7 +681,7 @@ section#contact .section-heading {
 }
 
 section#contact .form-group {
-    margin-bottom: 25px;
+    margin-bottom: 21px;
 }
 
 section#contact .form-group input,
@@ -732,6 +732,12 @@ section#contact:-ms-input-placeholder {
 
 section#contact .text-danger {
     color: #e74c3c;
+}
+
+@media (min-width: 992px)
+.col-md-6 {
+    width: 60%;
+    margin: auto;
 }
 
 footer {
