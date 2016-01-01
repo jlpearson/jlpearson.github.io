@@ -670,13 +670,15 @@ aside.clients img {
 }
 
 section#contact {
-  /*background-color: #222;
+  background-color: #222;
+  background-image: filter(url(img/map-image.png), sepia(0.2) blur(2px) opacity(80%));
   background-position: center;
-  background-repeat: no-repeat;*/
+  background-repeat: no-repeat;
 }
 
-section#contact::before {
+/*section#contact::before {
   content:"";
+  margin-top:-12.5%;
   height:100%;
   width:100%;
   position:absolute;
@@ -692,7 +694,7 @@ section#contact::before {
        -o-filter: sepia(0.2) blur(2px) opacity(80%);
       -ms-filter: sepia(0.2) blur(2px) opacity(80%);
           filter: sepia(0.2) blur(2px) opacity(80%);
-}
+}*/
 
 section#contact .section-heading {
     color: #fff;
