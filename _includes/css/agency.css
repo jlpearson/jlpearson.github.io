@@ -734,10 +734,11 @@ section#contact .text-danger {
     color: #e74c3c;
 }
 
-@media (min-width: 992px)
+@media (min-width: 992px) {
 .col-md-6 {
     width: 60%;
     margin: auto;
+}
 }
 
 footer {
