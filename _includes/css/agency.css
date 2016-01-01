@@ -669,7 +669,7 @@ aside.clients img {
     margin: 50px auto;
 }
 
-#contact-image {
+div#contact-image {
   background-color: #222;
   background-image: url(img/map-image.png);
   background-position: center;
