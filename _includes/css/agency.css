@@ -892,3 +892,10 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
+
+/* Contact Form Error Alert */
+
+.alert {
+  width: 60%;
+  margin: auto;
+}
