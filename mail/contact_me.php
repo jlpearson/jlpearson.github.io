@@ -1,6 +1,6 @@
-<?php
+<?php 
 // Check for empty fields
-if(empty($_POST['name'])  		||
+/* if(empty($_POST['name'])  		||
    empty($_POST['email']) 		||
    empty($_POST['message'])	||
    !filter_var($_POST['email'],FILTER_VALIDATE_EMAIL))
@@ -21,4 +21,4 @@ $headers = "From: " . strip_tags($_POST['email']) . "\r\n";
 $headers .= "Reply-To: ". strip_tags($_POST['email']) . "\r\n";
 mail($to,$email_subject,$email_body,$headers);
 return true;
-?>
+?> */
