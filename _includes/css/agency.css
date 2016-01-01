@@ -676,6 +676,12 @@ section#contact {
 }
 
 section#contact::before {
+  content:"";
+  height:100%;
+  width:100%;
+  position:absolute;
+  z-index:-1;
+  background-size:cover;
   background-color: #222;
   background-image: url(img/map-image.png);
   background-position: center;
