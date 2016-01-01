@@ -738,7 +738,7 @@ section#contact .text-danger {
 .col-md-6 {
     width: 60%;
     margin: auto;
-    flat: none;
+    float: none;
 }
 }
 
