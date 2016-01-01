@@ -735,6 +735,10 @@ section#contact .text-danger {
     color: #e74c3c;
 }
 
+section#contact .text-muted {
+  color: #fff;
+}
+
 @media (min-width: 992px) {
 .col-md-6 {
     width: 60%;
