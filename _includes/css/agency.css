@@ -899,3 +899,10 @@ body {
   width: 60%;
   margin: auto;
 }
+
+/* About me width */
+
+.about-col-lg-12 {
+  max-width: 700px;
+  margin: auto;
+}
