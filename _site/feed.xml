@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bespoke B&amp;B</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 19 Feb 2016 17:38:05 +0100</pubDate>
+    <lastBuildDate>Fri, 19 Feb 2016 17:38:05 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>7260 River Road</title>
+        <description>
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
+        <link>/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">/2014/07/18/project-1/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Tribeca</title>
+        <description>
+</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 +0200</pubDate>
+        <link>/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">/2014/07/17/project-2/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Boar&#39;s Head</title>
+        <description>
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +0200</pubDate>
+        <link>/2014/07/15/project-3/</link>
+        <guid isPermaLink="true">/2014/07/15/project-3/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
