@@ -255,7 +255,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-brand {
-        font-size: 2em;
+        font-size: 1.5em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -267,7 +267,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: rgba(34, 34, 34, 0.95);
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -278,14 +278,14 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #fff;
-    background-attachment: scroll;
+    /*background-attachment: scroll;
     background-image: url(img/header-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;
+    -o-background-size: cover;*/
 }
 
 header .intro-text {
@@ -678,12 +678,12 @@ aside.clients img {
 }
 
 section#contact {
-  background-color: #222;
+  /*background-color: #222;
   background-image: url(img/map-image.png);
   background-attachment: scroll;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover;*/
 }
 
 section#contact .section-heading {
@@ -906,4 +906,12 @@ body {
 .alert {
   width: 60%;
   margin: auto;
+}
+
+/* About me width */
+
+.about-col-lg-12 {
+  max-width: 700px;
+  margin: auto;
+  float: none;
 }
