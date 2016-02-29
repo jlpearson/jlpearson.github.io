@@ -1,6 +1,7 @@
 ---
 title: Boar's Head
 subtitle: Hampton, New Hampshire
+airlink: https://www.airbnb.com/rooms/6287820
 layout: default
 modal-id: 4
 date: 2014-07-15
